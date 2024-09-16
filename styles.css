@@ -1,0 +1,39 @@
+body{
+    background-color:lightgrey
+}
+
+.post{
+    background-color:white;
+    width:260px;
+    height:550px;
+    margin:auto;
+}
+.post-header{
+    display:flex;
+    justify-content:space-between;
+    padding:3px;
+    margin:10px;
+    
+   
+}
+    .TitlePost{
+        position:absolute;
+        margin:auto;
+        padding:0px;
+        top:10px;
+        left:580px;
+    }
+
+.post-img{
+    margin:auto;
+    padding:0px;
+    width:100%;
+}
+  
+.icons{
+    display:flex;
+    justify-content:space-between;
+    padding:10px;
+}
+
+
